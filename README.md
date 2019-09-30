@@ -46,4 +46,26 @@ This repo contains all the assignment problems and quizzes to all the five cours
   - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application_%20Image%20Classification)
   
-- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+  - [Week 1 - PA 1 - Initialization](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization)
+  - [Week 1 - PA 2 - Regularization](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization)
+  - [Week 1 - PA 3 - Gradient Checking](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%20Checking)
+  - [Week 2 - PA 4 - Optimization Methods]()
+  - [Week 3 - PA 5 - TensorFlow Tutorial]()
+
+- Course 3: Structuring Machine Learning Projects
+
+  - There is no PA for this course. But this course comes with very interesting case study quizzes.
+  
+- Course 4: Convolutional Neural Networks
+
+  - [Week 1 - PA 1 - Convolutional Model: step by step]()
+  - [Week 1 - PA 2 - Convolutional Model: application]()
+  - [Week 2 - PA 1 - Keras - Tutorial - Happy House]()
+  - [Week 2 - PA 2 - Residual Networks]()
+  
+- Course 5: Sequence Models
+
+  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step]()
+  - [Week 1 - PA 2 - Character level language model - Dinosaurus land]()
