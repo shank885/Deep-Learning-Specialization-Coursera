@@ -70,5 +70,14 @@ This repo contains all the assignment problems and quizzes to all the five cours
   
 - Course 5: Sequence Models
 
-  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step]()
-  - [Week 1 - PA 2 - Character level language model - Dinosaurus land]()
+  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%205.%20Sequence%20Models/Week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step)
+  - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%205.%20Sequence%20Models/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model)
+  - [Week 1 - PA 3 - Jazz Improvisation With LSTM](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%205.%20Sequence%20Models/Week%201/Jazz%20improvisation%20with%20LSTM)
+  - [Week 2 - PA 1 - Word Vector Representation](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%205.%20Sequence%20Models/Week%202/Word%20Vector%20Representation)
+  - [Week 2 - PA 2 - Emojify](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%205.%20Sequence%20Models/Week%202/Emojify)
+  - [Week 3 - PA 1 - Machine Translation](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%205.%20Sequence%20Models/Week%203/Machine%20Translation)
+  - [Week 3 - PA 2 -Trigger Word Detection](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/tree/master/Course%205.%20Sequence%20Models/Week%203/Trigger%20word%20detection)
+  
+--------------------------------------------------------------------------------------------------------
+
+
