@@ -80,4 +80,32 @@ This repo contains all the assignment problems and quizzes to all the five cours
   
 --------------------------------------------------------------------------------------------------------
 
+## Quiz Solutions
+
+- Course 1: Neural Networks and Deep Learning
+
+  - [Week 1 Quiz - Introduction to deep learning](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Week%201/Quiz%20Week%201%20-%20Introduction%20to%20Deep%20Learning.pdf)
+  - [Week 2 Quiz - Neural Network Basics](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Quiz%20Week%202%20-%20Neural%20Network%20Basics.pdf)
+  - [Week 3 Quiz - Shallow Neural Networks](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Week%203/Quiz%20Week%203%20-%20Shallow%20Neural%20Networks.pdf)
+  - [Week 4 Quiz - Key concepts on Deep Neural Networks](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%201.%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Quiz%20Week%204%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks.pdf)
+
+- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+  - [Week 1 Quiz - Practical aspects of deep learning](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Week%201%20Quiz%20-%20Practical%20aspects%20of%20deep%20learning.pdf)
+  - [Week 2 Quiz - Optimization algorithms](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Week%202%20Quiz%20-%20Optimization%20algorithms.pdf)
+  - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%202.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Week%203%20Quiz%20-%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.pdf)
+  
+- Course 3: Structuring Machine Learning Projects
+
+  - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%203.%20Structuring%20Machine%20Learning%20Projects/Week%201/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).pdf)
+  - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%203.%20Structuring%20Machine%20Learning%20Projects/Week%202/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).pdf)
+
+- Course 4: Convolutional Neural Networks
+
+  - [Week 1 Quiz - The Basics of ConvNets](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%201/Quiz%20-%20The%20basics%20of%20ConvNets.pdf)
+  - [Week 2 Quiz - Deep Convolutional Networks](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%202/Quiz%20-%20Deep%20Convolutional%20Networks.pdf)
+  - [Week 3 Quiz - Detection Algorithm](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%203/Quiz%20-%20Detection%20Algorithm.pdf)
+  - [Week 4 Quiz - Special Applicatios: Face Detection and Neural Style Transfer](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%204/Quiz%20-%20Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer.pdf)
+
+
 
