@@ -1,2 +1,1 @@
-# Coursera-Deep-Learning-Specialization-Andrew-Ng
-https://www.coursera.org/specializations/deep-learning
+<p align="center"><img width="40%" src="logo/deeplearning-ai.png" /></p>
