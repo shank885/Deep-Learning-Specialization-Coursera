@@ -56,14 +56,17 @@ This repo contains all the assignment problems and quizzes to all the five cours
 
 - Course 3: Structuring Machine Learning Projects
 
-  - XYZ
+  - There is no programming assignments for this course.
   
 - Course 4: Convolutional Neural Networks
 
-  - [Week 1 - PA 1 - Convolutional Model: step by step]()
-  - [Week 1 - PA 2 - Convolutional Model: application]()
-  - [Week 2 - PA 1 - Keras - Tutorial - Happy House]()
-  - [Week 2 - PA 2 - Residual Networks]()
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%201/Programming%20Assignment%20-%20Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%201/Programming%20Assignment%20-%20Convolution%20Model%20-%20Application%20-%20v1.ipynb)
+  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%202/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
+  - [Week 2 - PA 2 - Residual Networks](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%202/Programming%20Assignment%20-%20Residual%20Networks%20-%20v2.ipynb)
+  - [Week 3 - PA 1 - Autonomous Driving Application - Car Detection](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%203/Programming%20Assignment%20-%20Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
+  - [Week 4 - PA 1 - Face Recognition for Happy House](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%204/Programming%20Assignment%20-%20Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
+  - [Week 4 - PA 2 - Art Generation With Neural Style Transfer](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%204/Programming%20Assignment%20-%20Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
   
 - Course 5: Sequence Models
 
