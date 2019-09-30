@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------
 
-# [Deep Learning Specialization on Courser](https://www.deeplearning.ai/)
+# [Deep Learning Specialization on Coursera](https://www.deeplearning.ai/)
 
 **Break into AI World by Mastering Deep Learning Fundamentals**
 
@@ -107,5 +107,26 @@ This repo contains all the assignment problems and quizzes to all the five cours
   - [Week 3 Quiz - Detection Algorithm](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%203/Quiz%20-%20Detection%20Algorithm.pdf)
   - [Week 4 Quiz - Special Applicatios: Face Detection and Neural Style Transfer](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera/blob/master/Course%204.%20Convolutional%20Neural%20Networks/Week%204/Quiz%20-%20Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer.pdf)
 
+---------------------------------------------------------------------------------------------------------------------------
 
+## Certificate
 
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ZB8AP5HBU9TT)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+## Milestones
+
+- **19-05-2019**: Finished All Five Courses of this Specialization
+
+---------------------------------------------------------------------------------------------------------------------------
+
+## References
+
+- [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+- [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+
+---------------------------------------------------------------------------------------------------------------------------
